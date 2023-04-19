@@ -1,0 +1,1 @@
+Changed qr height
